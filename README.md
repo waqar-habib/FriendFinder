@@ -17,7 +17,7 @@ Fill out the questionnaire and you'll get your new friend match in less than a m
 
 ## Demo
 
-Go check it out on Heroku: 
+Go check it out on Heroku: https://blooming-castle-62980.herokuapp.com/
 
 ## Copyrights
 
