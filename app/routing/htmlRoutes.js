@@ -4,7 +4,7 @@ var router = express.Router();
 
 // Defining Home Page Route
 router.get('/', function(req, res) {
-    res.sendFile(path.join(__dirname, "/../public/index.html"));
+    res.sendFile(path.join(__dirname, "/../public/home.html"));
     console.log(__dirname);
 
 });
